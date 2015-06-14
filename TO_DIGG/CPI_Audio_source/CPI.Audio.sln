@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examples", "Examples\Examples.csproj", "{23E5F213-3ADC-4F53-9C48-69974FE836AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPI.Audio", "CPI.Audio\CPI.Audio.csproj", "{37FFB39E-724B-4A9E-AB2F-E74A73FF3C20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23E5F213-3ADC-4F53-9C48-69974FE836AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23E5F213-3ADC-4F53-9C48-69974FE836AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23E5F213-3ADC-4F53-9C48-69974FE836AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23E5F213-3ADC-4F53-9C48-69974FE836AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37FFB39E-724B-4A9E-AB2F-E74A73FF3C20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37FFB39E-724B-4A9E-AB2F-E74A73FF3C20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37FFB39E-724B-4A9E-AB2F-E74A73FF3C20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37FFB39E-724B-4A9E-AB2F-E74A73FF3C20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
